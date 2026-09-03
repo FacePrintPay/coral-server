@@ -56,3 +56,4 @@ bin/
 examples/camel-search-maths/__pycache__/
 examples/session-posts/**.env.json
 .vercel
+.env*
